@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.kahuna.sdk</groupId>
-  <artifactId>Kahuna-</artifactId>
+  <artifactId>kahuna-</artifactId>
   <versioning>
     <release>2.2.3</release>
     <versions>
